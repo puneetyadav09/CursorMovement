@@ -1,4 +1,4 @@
-###Object Detection with Cursor Movement in Python
+###**Object Detection with Cursor Movement in Python
 Welcome to the Object Detection with Cursor Movement project implemented in Python.
 
 ##Table of Contents
