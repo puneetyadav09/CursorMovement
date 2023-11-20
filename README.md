@@ -1,4 +1,4 @@
-***Object Detection with Cursor Movement in Python***
+******Object Detection with Cursor Movement in Python******
 Welcome to the Object Detection with Cursor Movement project implemented in Python.
 
 **Table of Contents**
@@ -37,7 +37,7 @@ python main.py
 2. The camera feed will start, and objects will be detected in real-time.
 3. Move detected objects to control the cursor on the screen.
 
-##Dependencies
+**Dependencies**
 1. Python 3. 12
 2. OpenCV
 
