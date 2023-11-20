@@ -17,8 +17,11 @@ This Python project combines object detection with cursor movement, providing an
 **Features**
 
 **Object Detection:** Utilizes a pre-trained model to detect objects in the camera feed.
+
 **Cursor Movement:** Maps the cursor's movement to the positions of detected objects.
+
 **Real-time Interaction:** Enjoy a dynamic and interactive experience as the cursor responds to the movement of detected objects.
+
 **Configurability:** Easily configure the sensitivity and mapping parameters for optimal user experience.
 
 **Installation**
