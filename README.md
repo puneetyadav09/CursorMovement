@@ -29,7 +29,7 @@ This Python project combines object detection with cursor movement, providing an
 To run this application locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/Puneet-Yadav-001/CursorMovement.git
+git clone https://github.com/puneetyadav09/CursorMovement.git
 
 2. Navigate to the project directory:
 cd object-detection-cursor-movement
